@@ -15,10 +15,9 @@ function logWhisper (string){
   console.log(string.toLowerCase())
 }
 
-var deaf = "I can't hear you!"
 
 function sayHiToGrandma(string){
   if(string.toLowerCase===string){
-    return deaf
+    return "I can't hear you!"
   }
 }
