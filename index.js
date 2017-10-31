@@ -4,5 +4,5 @@ function shout(string){
 
 function logShout(string){
   console.log(string.toUpperCase())
-  
+
 }
