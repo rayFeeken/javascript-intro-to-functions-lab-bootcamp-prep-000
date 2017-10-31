@@ -7,6 +7,11 @@ function logShout(string){
 
 }
 
+function whisper (string){
+  return string.toLowerCase()
+}
+
+
 var deaf = "I can't hear you!"
 
 function sayHiToGrandma(string){
